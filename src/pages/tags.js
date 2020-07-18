@@ -4,11 +4,11 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const AboutPage = () => (
+const TagsPage = () => (
   <Layout>
-    <SEO title="About" />
-    <h1>Hi About</h1>
+    <SEO title="Tags" />
+    <h1>Tags Pages</h1>
   </Layout>
 )
 
-export default AboutPage
+export default TagsPage
